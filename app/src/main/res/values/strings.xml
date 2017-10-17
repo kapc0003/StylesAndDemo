@@ -1,0 +1,22 @@
+<resources>
+	<string name="app_name">StylesAndThemesDemo</string>
+
+	<string name="AppSmallText">Small Text</string>
+	<string name="AppMediumText">Medium Text</string>
+	<string name="AppLargeText">Large Text</string>
+	<string name="AppExtraLargeText">Extra Large Text</string>
+	<string name="AppExtraLargeTextLight">Extra Large Light</string>
+	<string name="AppRadioButton">My Radio Button</string>
+	<string name="AppGradient">Gradient</string>
+	<string name="AppShadow">Shadow</string>
+
+	<string name="AppHelloWorld">Hello World !</string>
+	<string name="AppCheckBox">My CheckBox</string>
+	<string name="AppButtonOne">Button One</string>
+	<string name="AppButtonTwo">Button Two</string>
+
+	<string name="MoveToSecondActivity">Move to Second Activity with Explode</string>
+	<string name="SecondActivity">Second Activity</string>
+	<string name="SecondActivityButton">Button</string>
+
+</resources>
